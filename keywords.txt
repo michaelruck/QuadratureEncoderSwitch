@@ -1,0 +1,4 @@
+QuadratureEncoderSwitch	KEYWORD1
+read					KEYWORD2
+setLimits				KEYWORD2
+reset					KEYWORD2
